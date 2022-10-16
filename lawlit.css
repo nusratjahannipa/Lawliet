@@ -1,0 +1,136 @@
+body{
+    width: 100vw;
+    margin: 0 auto;
+}
+.header{
+    padding: 1rem;
+}
+.page1{
+    background-color: #F9F8F9;
+}
+.page1-text{
+     margin-top: 10rem;
+}
+.page1-head{
+ font-size: 5.1rem;
+ font-weight: 700;
+ color: #094B72;
+ font-family: Playfair Display;
+}
+.page1-para{
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-top: 2rem;
+    font-family: Plus Jakarta Sans;
+}
+.page1-btn{
+    background-color: #094B72;
+    color:white ;
+    margin-top: 3rem;
+    width: 9rem;
+    height: 4rem;
+}
+.page1-image{
+
+}
+.company{
+    margin-top: 8rem;
+}
+.company-logo{
+    margin: 2rem 0rem 2rem 0rem;
+}
+.page2{
+    background-color: #F2FCFF;
+    margin-top: 3rem;
+    padding: 2rem;
+}
+
+.page2-head{
+    margin-top: 4rem;
+    font-size: 3rem;
+ font-weight: 700;
+ color:black;
+ font-family: Playfair Display;
+}
+.sec-backgrd{
+    background-color: white;
+    padding: 1rem;
+    width: 280px;
+    height: 220px;
+}
+.gap{
+    margin: .5rem;
+}
+.page3{
+    padding: 90px;
+    color: white;
+    background-image: url(../image/BG.png);
+}
+.page3-head{
+    font-size: 3rem;
+ font-weight: 700;
+ font-family: Playfair Display;
+ 
+}
+.clients-head{
+    font-size: 3rem;
+ font-weight: 700;
+ font-family: Playfair Display;
+ margin-top: 2rem;
+
+}
+.testimonials-head{
+    font-size: 3rem;
+ font-weight: 700;
+ font-family: Playfair Display;
+ color: black;
+ margin-bottom: 2rem;
+ 
+}
+.page4{
+    background-color: #F4FBFF;
+    padding: 3rem;
+}
+.test1{
+    background-color: white;
+    padding: 1rem;
+
+}
+.test-logo{
+    margin-top: 1rem;
+}
+.page6{
+    background-color: #0F6E8C;
+    color: white;
+    padding: 60px;
+}
+.page7{
+    background-color: #05546D;
+    padding: 1.5rem;
+    color: white;
+}
+.page5-head{
+    font-size: 3rem;
+ font-weight: 700;
+ font-family: Playfair Display;
+ color: black;
+ margin-top: 3rem;
+}
+.page5-btn{
+    background-color: #0F6E8C;
+    border: none;
+    width: 8rem;
+    height: 3rem;
+    margin-top: 1rem;
+}
+@media screen and (max-width: 500px) and (min-width: 300px) {
+.page1-image{
+    width: 350px;
+    height: 974px;
+}
+.page5-image{
+    width: 350px;
+    height: 375px;
+}
+}
+    
